@@ -1,5 +1,11 @@
 # @ladle/react
 
+## 0.16.1
+
+### Patch Changes
+
+- [#147](https://github.com/tajo/ladle/pull/147) [`f9a4965`](https://github.com/tajo/ladle/commit/f9a4965e8a7940f9aa41df2c2c8418d37f9f0d35) Thanks [@tajo](https://github.com/tajo)! - Add generic Axe check for (mostly) empty Ladle instance to make sure that projects running axe don't have a problem with Ladle.
+
 ## 0.16.0
 
 ### Minor Changes
